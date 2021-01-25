@@ -1,9 +1,0 @@
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Image Viewer\bin\Release\Image_Viewer.exe.config
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Image Viewer\bin\Release\Image_Viewer.exe
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Image Viewer\bin\Release\Image_Viewer.pdb
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Image Viewer\obj\Release\Image_Viewer.Form1.resources
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Image Viewer\obj\Release\Image_Viewer.Properties.Resources.resources
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Image Viewer\obj\Release\Image Viewer.csproj.GenerateResource.cache
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Image Viewer\obj\Release\Image Viewer.csproj.CoreCompileInputs.cache
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Image Viewer\obj\Release\Image_Viewer.exe
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Image Viewer\obj\Release\Image_Viewer.pdb
